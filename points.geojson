@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FID": 0, "time": "1", "id": "route1", "name": "Start Walk" }, "geometry": { "type": "Point", "coordinates": [ -87.802702188491807, 42.017975006514682 ] } },
+{ "type": "Feature", "properties": { "FID": 1, "time": "2", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.802766561508179, 42.018955410603603 ] } },
+{ "type": "Feature", "properties": { "FID": 2, "time": "3", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.79723048210144, 42.019043088281727 ] } },
+{ "type": "Feature", "properties": { "FID": 3, "time": "4", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.797273397445679, 42.018369561197161 ] } },
+{ "type": "Feature", "properties": { "FID": 4, "time": "5", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.797348499298096, 42.018062685544542 ] } },
+{ "type": "Feature", "properties": { "FID": 5, "time": "6", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.797439694404602, 42.017823560632863 ] } },
+{ "type": "Feature", "properties": { "FID": 6, "time": "7", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.797573804855347, 42.017684070685824 ] } },
+{ "type": "Feature", "properties": { "FID": 7, "time": "8", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.798120975494385, 42.017329366299371 ] } },
+{ "type": "Feature", "properties": { "FID": 8, "time": "9", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.798206806182861, 42.017169947953214 ] } },
+{ "type": "Feature", "properties": { "FID": 9, "time": "10", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.798335552215576, 42.016966688982258 ] } },
+{ "type": "Feature", "properties": { "FID": 10, "time": "11", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.798196077346802, 42.016827197155692 ] } },
+{ "type": "Feature", "properties": { "FID": 11, "time": "12", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.798045873641968, 42.01669169051695 ] } },
+{ "type": "Feature", "properties": { "FID": 12, "time": "13", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.798255085945129, 42.015806904778231 ] } },
+{ "type": "Feature", "properties": { "FID": 13, "time": "14", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.79823362827301, 42.015328637091571 ] } },
+{ "type": "Feature", "properties": { "FID": 14, "time": "15", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.798185348510742, 42.014957977160634 ] } },
+{ "type": "Feature", "properties": { "FID": 15, "time": "16", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.79798150062561, 42.014579343817985 ] } },
+{ "type": "Feature", "properties": { "FID": 16, "time": "17", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.797123193740831, 42.013917726461209 ] } },
+{ "type": "Feature", "properties": { "FID": 17, "time": "18", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.795784771442413, 42.013280016471001 ] } },
+{ "type": "Feature", "properties": { "FID": 18, "time": "19", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.795613110065446, 42.01309866652484 ] } },
+{ "type": "Feature", "properties": { "FID": 19, "time": "20", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.795575559139252, 42.012947209030713 ] } },
+{ "type": "Feature", "properties": { "FID": 20, "time": "21", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.795806229114532, 42.012411126318575 ] } },
+{ "type": "Feature", "properties": { "FID": 21, "time": "22", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.79524564743042, 42.01234137544764 ] } },
+{ "type": "Feature", "properties": { "FID": 22, "time": "23", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.795237600803375, 42.012255681415766 ] } },
+{ "type": "Feature", "properties": { "FID": 23, "time": "24", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.798453569412217, 42.012554613583987 ] } },
+{ "type": "Feature", "properties": { "FID": 24, "time": "25", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.801189422607422, 42.012052406738903 ] } },
+{ "type": "Feature", "properties": { "FID": 25, "time": "26", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.802251577377319, 42.013200302272658 ] } },
+{ "type": "Feature", "properties": { "FID": 26, "time": "27", "id": "route1", "name": "End Walk" }, "geometry": { "type": "Point", "coordinates": [ -87.802723646163926, 42.017759793837904 ] } }
+]
+}
